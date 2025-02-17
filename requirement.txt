@@ -1,0 +1,6 @@
+pandas
+tensorflow[and-cuda]
+gpt4all[cuda]
+nltk
+scikit-learn
+streamlit
