@@ -1,8 +1,7 @@
 # Sentiment Analysis & Summarization
 This project utilizes TensorFlow and GPT4All for sentiment analysis and summarization, with results displayed in a Streamlit web app.
 
-Sentiment Analysis: Trained on the Twitter Tweets Sentiment Dataset.
-Summarization: Powered by Facebook LLaMA 3 8B Instruct.
+Sentiment Analysis is trained on the Twitter Tweets Sentiment Dataset while summarization is powered by Facebook LLaMA 3 8B Instruct.
 
 # Note  
 I wrote this project in Python 3.12.9 on Linux Mint.  
