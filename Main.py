@@ -131,5 +131,7 @@ if st.button("Analyze 🧐"):
         st.session_state["extracted_text"] = extracted_text
         st.session_state["sentiment"] = sentiment
         st.session_state["summary"] = summary
+        st.session_state.history = []
+        st.session_state.response = ""
 
         st.switch_page('./pages/Chat.py')

@@ -4,3 +4,4 @@ gpt4all[cuda]
 nltk
 scikit-learn
 streamlit
+BeautifulSoup
